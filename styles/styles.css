@@ -1,0 +1,28 @@
+body {
+    font-family: Arial;
+}
+
+.headercontainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+img.smallmushroom {
+    width: 100px;
+    height: 100px;
+}
+
+.randominfo {
+    text-align: center;
+}
+
+.infocontainer {
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+}
+
+.info{
+    max-width: 100px;
+    justify-content: center;
+}
